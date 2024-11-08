@@ -1,6 +1,13 @@
 ## Hi there 👋
 
-//This is a start for me!
+My name is Eric Grahn a.k.a Gr4hn. 
+I am a part av the Rouge crew, a group of students who is developing their skills tp become the next generation systemdevelopers!
+
+At the moment we've got a work in progress arcade game - Rouge Arcade. A work in progress Arcade where a player will be able to play a set of games, as Hangman, Snake etc. We have planed to implement a RPG game as well.
+
+#Contact
+Email: eric.grahn@gmail.com
+LinkedIn: www.linkedin.com/in/eric-grahn-4a9847163
 
 <!--
 **Gr4hn/Gr4hn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
